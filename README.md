@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+#  React and Redux + json-server. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+需要全局安装json-server  然后json-server data.js --port 8888 启动后端 才有数据
 
 ## Available Scripts
 
